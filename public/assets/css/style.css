@@ -57,3 +57,25 @@ h1 {
   padding: 10px;
   background-color: pink;
 }
+
+.burgerAvailable:hover {
+  background-color:yellow;
+}
+
+.addBurgerButton {
+  font-family: 'Crafty Girls', cursive;
+  font-weight: normal;
+  font-size: 20px;
+  text-align: center;
+
+  border-radius: 25px;
+  width: 100%;
+  margin: 0;
+  padding: 10px;
+  background-color: #FFC04C;
+  border: none;
+}
+
+.addBurgerButton:hover {
+	background-color:yellow;
+}
